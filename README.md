@@ -1,4 +1,4 @@
-![logo](https://github.com/asadali512141/asadali512141/blob/main/pic.png)
+![logo](https://github.com/asadali512141/asadali512141/blob/main/pic.png) width="100%"
 <h1 align="center">Hi 👋, I'm ASADALI</h1>
 <h3 align="center">A passionate BSIT student from Pakistan.</h3>
 
